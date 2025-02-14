@@ -1,8 +1,9 @@
 README.md
 setup.py
-binaryTREE/__init__.py
-binaryTREE/main.py
+binaryTREE_operations/__init__.py
+binaryTREE_operations/main.py
 binaryTREE_operations.egg-info/PKG-INFO
 binaryTREE_operations.egg-info/SOURCES.txt
 binaryTREE_operations.egg-info/dependency_links.txt
+binaryTREE_operations.egg-info/entry_points.txt
 binaryTREE_operations.egg-info/top_level.txt

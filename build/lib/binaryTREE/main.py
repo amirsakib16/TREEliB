@@ -1022,3 +1022,21 @@ class BinaryTree:
             if node.right:
                 queue.append((node.right,depth+1))
 
+import argparse
+
+def main():
+    parser = argparse.ArgumentParser(description="Binary Tree Operations")
+    parser.add_argument(
+        "--values",
+        nargs="+",
+        type=int,
+        help="List of integers to create a binary tree",
+    )
+    args = parser.parse_args()
+
+    if args.values:
+        tree = BinaryTree()
+        tree.printIN(args.values)
+
+if __name__ == "__main__":
+    main()
