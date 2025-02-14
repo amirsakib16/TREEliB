@@ -1,4 +1,4 @@
-**Google Colab
+**Google Colab \n
 In Google Colab, simply use the following command in a code cell to install the package:**
 _!pip install binaryTREE-operations_
 
