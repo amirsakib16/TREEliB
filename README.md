@@ -11,7 +11,7 @@ To install the package in Jupyter Notebook, run the following command in a code 
 _!pip install binaryTREE-operations_ <br>
 <br>
 ---------------------------------------------------------------------------------------------
-
+<br>
 **After installation, you can import and use the library:** <br>
 _from binaryTREE import BinaryTree_ <br>
 _Binarytree = BinaryTree()_ <br>
