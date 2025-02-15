@@ -1,5 +1,5 @@
 **DOCUMENTATIONS** <br>
-https://shorturl.at/yZtSD
+https://shorturl.at/gPvTx
 -
 **Google Colab <br>
 In Google Colab, simply use the following command in a code cell to install the package:** <br>
