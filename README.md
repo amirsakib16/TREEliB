@@ -1,4 +1,4 @@
-<html alt="CHECK DOCUMENTATIONS">https://shorturl.at/gPvTx</html>
+[CHECK DOCUMENTATIONS](https://shorturl.at/gPvTx) <br>
 -
 **Google Colab <br>
 In Google Colab, simply use the following command in a code cell to install the package:** <br>
