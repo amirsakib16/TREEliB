@@ -1,2 +1,0 @@
-[console_scripts]
-binaryTREE_operations = binaryTREE_operations.main:main
