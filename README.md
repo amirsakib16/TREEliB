@@ -1,5 +1,8 @@
 [CHECK DOCUMENTATIONS](https://shorturl.at/gPvTx) <br>
 -
+I have made my own customized Python package.
+This tree package contains 54 unique binary tree operations that you can use just by making a function call.
+-
 **Google Colab <br>
 In Google Colab, simply use the following command in a code cell to install the package:** <br>
 -
